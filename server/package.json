@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.18.2",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^7.5.3"
+    "mongoose": "^7.5.3",
+    "react-webcam": "^7.1.1"
   }
 }
